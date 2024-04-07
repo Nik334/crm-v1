@@ -1,6 +1,7 @@
 # CRM-v1
 
-Frontend :- React Js / Next Js
+Frontend :- React Js / Next Js 
+--
 Backennd :- Laravel with MySQL
 
 Features :-
